@@ -1,0 +1,17 @@
+Hauptmensa	2		1	2	3
+Marktstand	9		1	2	3
+Contine	3		1	2	3
+Mensa Garbsen	13		1	2	3
+Café Leibniz	10		1		
+Caoffee-Shop Appelstraße	18		1		
+Cafeteria Herrenhausen	12		1	2	3
+Cafeteria Sprengelstube	15		1		
+Mensa Caballus	1		1	2	3
+Mensa TiHo-Tower	0		1	2	3
+Mensa HMTMH	8		1	2	3
+Mensa Campus Linden	6		1	2	3
+Mensa Große Pause	7		1	2	3
+Mensa Blumhardtstraße	14		1	2	3
+Café Seeblick	17		1		
+Cafeteria Bismarkstraße	19		1		
+Cafeteria Ahlem	20		1		
